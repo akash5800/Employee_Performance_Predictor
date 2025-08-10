@@ -66,21 +66,10 @@ Here are some screenshots of the application:
 
 ### Home Page
 
-![Home Page](Outputs/Home.png)
+ <img width="1623" height="821" alt="Screenshot 2025-08-10 215219" src="https://github.com/user-attachments/assets/e750999b-61a3-4033-93c2-a92875319aa2" />
 
-### About Page
 
-![About Page](Outputs/About.png)
-
-### Prediction Form
-
-![Prediction Form](Outputs/Predict.png)
-
-### Result Page
-
-![Result Page](Outputs/Result.png)
-
-## Contributing
+ 
 
 Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) before submitting a pull request.
 
