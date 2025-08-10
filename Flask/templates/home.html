@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+<header>
+    <h1>Welcome to Employee Performance Analysis</h1>
+</header>
+<br>
+<br>
+<p>
+    <center>This tool helps in evaluating employee performance using various metrics. The success of a business is
+        closely tied to its workforce. Companies that understand the value of performance evaluation can make better
+        decisions regarding employee growth, promotions, and other HR activities. Increased productivity can
+        significantly impact the workplace, making performance analysis essential for any organization.
+    </center>
+    <br>
+    <br>
+<div style="width:100px;">
+    <a class="nav-link btn btn-primary" href="{{ url_for('home1') }}">Predict</a>
+</div>
+
+</p>
+{% endblock %}
